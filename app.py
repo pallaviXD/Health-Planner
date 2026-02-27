@@ -1,6 +1,6 @@
 """
 AI-Powered Personalized Workout & Diet Planner for Students
-Uses: Streamlit, Hugging Face Transformers, scikit-learn
+Uses: Streamlit, scikit-learn for ML personalization
 """
 
 import streamlit as st
